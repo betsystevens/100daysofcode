@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 13, July 14, 2020
+- Coursera Bootstrap4
+  - Added tabbed navigation with classes:  
+    ```.nav.nav-tabs  .tab-content  .tabpanel```
+  - Collapse javascript plugin to hide and reveal, toggle  
+    ```.collapse```
+  - Added accordian component using collapse, cards 
+  - Added tooltip and modal to course site
+  - Next up Carousel then assignemnt 3!
+
+  
+
+## Day 12: July 13, 2020
+- Coursera Bootstrap4
+  - Added reservation form, button for form, media class & images.
+  - Finished week 2 and the week's final assignment.
+  - Began week 3!
+  - Committed to finishing it in a day or two.
+
 ## Day 11: July 12, 2020
 - Coursera Bootstrap: Tables & Cards
 - Worked on assignment 2, the end of Week 2 
