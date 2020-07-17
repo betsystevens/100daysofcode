@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 15, July 16, 2020
+- Looking throught bootstrap css code for carousel & slide
+- Noticed functions beginning with underscore
+- Underscore is used to denote private method or variable
+- Spent time understanding image optimization
+- Added carousel and carousel controls to book site 
+
+## Day 14, July 15, 2020
+- Coursera Bootstrap4
+- Added a carousel to course site
+
 ## Day 13, July 14, 2020
 - Coursera Bootstrap4
   - Added tabbed navigation with classes:  
@@ -9,8 +20,6 @@
   - Added accordian component using collapse, cards 
   - Added tooltip and modal to course site
   - Next up Carousel then assignemnt 3!
-
-  
 
 ## Day 12: July 13, 2020
 - Coursera Bootstrap4
