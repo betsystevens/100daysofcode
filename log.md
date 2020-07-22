@@ -1,7 +1,28 @@
 # 100 Days Of Code - Log
 
+## Day 19, July 21, 2020
+- Finished assignment 4 
+- Added play and pause buttons to book site carousel
+- Began build and deploy videos on coursera course
+- Uglification changes variable names to single letters when possible
+  - That explains a lot!!
+
+## Day 18, July 20, 2020
+- Finished less assignment
+- Added new keyboard shortcut for matching pair in emmet
+- Turns out shift 5 was a bad idea, could not insert a % when I needed to.
+- Now I know. Fixed it.
+
+## Day 17, July 18, 2020
+- Began Week 4 of coursera bootstrap
+- Finished first assignment
+- Added javascript and jquery play and pause controls
+
+## Day 16, July 17, 2020
+- Finished assignment 3, week 3 of coursera bootstrap course
+
 ## Day 15, July 16, 2020
-- Looking throught bootstrap css code for carousel & slide
+- Looking through bootstrap css code for carousel & slide
 - Noticed functions beginning with underscore
 - Underscore is used to denote private method or variable
 - Spent time understanding image optimization
