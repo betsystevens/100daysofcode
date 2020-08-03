@@ -1,5 +1,67 @@
 # 100 Days Of Code - Log
 
+**Todo Today**
+- Finsh week one of react
+- Add stuff to flowersite
+- Add to book site
+  - get images ready
+- Plan to devote X minutes a day to images for two sites
+- Plan to devote X minutes a day to content text
+
+## Day 29, Aug 2, 2020
+- Changed footer on booksite
+- Used d-none and d-block for more responsive links in footer
+- Changed address and email, minor
+- Good practice with bootstrap
+- Changed nav and html page names
+- Added another carousel item
+- Changed the media section from three sections to two
+  - removed a div>h3, put the content into text section
+  - added reviews, rewrote content
+
+## Day 28, Aug 1, 2020
+- 30 minutes image manipulation, selection
+- 30 minutes react videos
+  - not great, not terrible
+
+## Day 27, July 31, 2020
+- Gathered images and resized
+- Added images to flowersale
+- Added react media component to flowersale site 
+
+## Day 26, July 30, 2020
+- Watched coursera react video
+- Looked at image compression, tinyjpg.com
+- Began thinking about flowersale design
+- Only got 1 hour in
+
+## Day 25, July 29, 2020
+- Reviewed branching and basic git commands
+- React course, components part 1
+- Using create-react-app created flowersale
+- Add repo on github for flowersale
+
+## Day 24, July 26, 2020
+- Completed part 2 of Grunt
+- Moving onto React course, can't face Gulp now, maybe later.
+
+## Day 23, July 25, 2020
+- Wrapped up npm scripts, needed a second go through
+- Completed part 1 of Grunt
+
+## Day 22, July 24, 2020
+- Worked on Grunt, reading documentation
+- Worked on some git, trying to figure out what had changed
+
+## Day 21, July 23, 2020
+- Grunt and Gulp
+- Slow down....  need to pick it up!
+
+## Day 20, July 22, 2020
+- Working through coursera videos on npm scripts
+- began grunt and gulp videos
+- slow moving
+
 ## Day 19, July 21, 2020
 - Finished assignment 4 
 - Added play and pause buttons to book site carousel
